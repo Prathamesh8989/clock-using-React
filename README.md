@@ -270,7 +270,7 @@ Cleaning up intervals is considered a React best practice.
 
 ---
 
-# 🕒 Time Formatting
+# Time Formatting
 
 JavaScript returns time using the 24-hour format.
 
@@ -383,7 +383,7 @@ Better readability
 
 ---
 
-# 🔄 Rendering Cycle
+# Rendering Cycle
 
 ```
 Current Time
