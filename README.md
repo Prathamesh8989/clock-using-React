@@ -1,5 +1,5 @@
 
-## 📸 Preview
+## Preview
 
 ![Digital Clock](digital-clock.png)
 
